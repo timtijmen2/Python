@@ -8,3 +8,4 @@ Geslacht = 'J'
 Inteligentie = 56
 Containt = True
 ContaintCellSize = [6.1, 6.1]
+print(Nickname)
