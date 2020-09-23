@@ -1,4 +1,11 @@
 antwoord = 0
+A = 1
+B = 5
+antwoord = A + B
+antwoord = A - B
+antwoord = A * B
+antwoord = A % B
+antwoord = A / B
 print(antwoord)
 antwoord += 80
 print(antwoord)
